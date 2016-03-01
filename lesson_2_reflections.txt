@@ -17,3 +17,10 @@ They help to have a better control of the changes introduced
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Combination of the improvements in both branches. It is represented that way because it combine code from each branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros				cons
+It's automatic			could introduce noise if not well used
+Makes easy the collaboration
+
+

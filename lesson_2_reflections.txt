@@ -14,3 +14,6 @@ The branches will allow made changes without affecting the working project, and 
 
 How do the diagrams help you visualize the branch structure?
 They help to have a better control of the changes introduced
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combination of the improvements in both branches. It is represented that way because it combine code from each branch

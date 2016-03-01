@@ -11,3 +11,6 @@ What are some situations when branches would be helpful in keeping your history 
 When trying new options, leaving a working code without the modifications, being able to return to it if neccesary. 
 
 The branches will allow made changes without affecting the working project, and since we can check for differences, we'll be able to know the changes made
+
+How do the diagrams help you visualize the branch structure?
+They help to have a better control of the changes introduced

@@ -3,3 +3,6 @@ It created the information needed for the version control
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is like a temporal environment, where the files can be modified without affecting the "copies" of the same. It allows to made changes without the risk of losing some working project
+
+How can you use the staging area to make sure you have one commit per logical change?
+By making comparations between the last commit and the changes introduced, they should represent one logal change

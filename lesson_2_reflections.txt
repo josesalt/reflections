@@ -6,3 +6,8 @@ The staging area is like a temporal environment, where the files can be modified
 
 How can you use the staging area to make sure you have one commit per logical change?
 By making comparations between the last commit and the changes introduced, they should represent one logal change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When trying new options, leaving a working code without the modifications, being able to return to it if neccesary. 
+
+The branches will allow made changes without affecting the working project, and since we can check for differences, we'll be able to know the changes made

@@ -9,3 +9,6 @@ forks apply only in the GitHub environment, clones to local-GitHub environment o
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The possibility of working off-line with the last known state 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Making notes to what changes I' doing and trying to understand the changes made by others; it could create a big file with a lot of comments, and it could make it difficult to follow

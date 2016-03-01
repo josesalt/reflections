@@ -12,3 +12,9 @@ The possibility of working off-line with the last known state
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Making notes to what changes I' doing and trying to understand the changes made by others; it could create a big file with a lot of comments, and it could make it difficult to follow
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+The changes must be done in a different branch in order to preserver the master of unwanted changes. 
+The benefit of changing directly the master could be that it is faster, but on the other hand, it could get out of control, something that using branches is avoided
+
